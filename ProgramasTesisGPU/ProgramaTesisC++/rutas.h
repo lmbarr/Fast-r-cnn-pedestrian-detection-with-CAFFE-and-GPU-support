@@ -14,8 +14,8 @@ using namespace std;
 
 const string RUTA_FOLDER_LSI = "/Detection/Test/";
 const string RUTA_VIDEO = "/videos_infrarrojo1/video01.avi";
-const string RUTA_ALARMA = "/home/ubuntu/Downloads/alarma.wav";
-const string RUTA_ARQUITECTURA = "/home/ubuntu/Downloads/";
+const string RUTA_ALARMA = "/home/+++++/Downloads/alarma.wav";
+const string RUTA_ARQUITECTURA = "/home/++++++/Downloads/";
 const string MODO_CAFFE = "GPU"; //puede ser CPU O GPU
 
 
