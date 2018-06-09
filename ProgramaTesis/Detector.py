@@ -6,7 +6,7 @@ import numpy as np
 import sys
 import math
 
-sys.path.append('/home/luis/MEGA/red_caffe/red1/evaluacion_red_rois')
+sys.path.append('/home/++++/+++++/red_caffe/red1/evaluacion_red_rois')
 from roi_helpers import non_max_suppression_fast
 import matplotlib.patches as patches
 from non_maxima_supresion import non_maxima_supression
