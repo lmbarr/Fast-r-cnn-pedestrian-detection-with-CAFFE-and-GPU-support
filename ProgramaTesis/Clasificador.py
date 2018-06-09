@@ -4,7 +4,7 @@ para determinar metricas en la deteccion. Se va a utilizar el conjunto
 test de LSIFIR '''
 import cv2
 import sys
-sys.path.insert(0, "/home/luis/fast-rcnn/caffe-fast-rcnn/python")
+sys.path.insert(0, "/home/++++++++++/fast-rcnn/caffe-fast-rcnn/python")
 import caffe
 import numpy as np
 
