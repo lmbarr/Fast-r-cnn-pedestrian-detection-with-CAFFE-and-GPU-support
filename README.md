@@ -22,3 +22,8 @@ using:
 ### More Information:
 
 See https://github.com/lmbarr/Fast-r-cnn-pedestrian-detection-with-CAFFE-and-GPU-support/blob/master/Manual%20de%20usuario.pdf
+
+### QA:
+
+Let me know your questions at `lmbarreno2@outlook.com`.
+
